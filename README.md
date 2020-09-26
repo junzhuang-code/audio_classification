@@ -62,7 +62,7 @@ This project is a in-class competition held on Kaggle.com. The major task is to 
 ### Dataset
 
 Each row in the audio dataset corresponds to a spoken digit (0 to 9) sampled at 22050 hz. The competition only provides train labels. Note that there are no digit 2 in the training data. The sample audio wave is visualized as below:
-[![Sample Audio Wave][sample-audio-wave]]
+[![Sample Audio Wave][sample-audio-wave]]()
 
 ### Preprocessing
 
