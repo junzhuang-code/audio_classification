@@ -67,12 +67,15 @@ Each row in the audio dataset corresponds to a spoken digit (0 to 9) sampled at 
 ### Preprocessing
 
 1. **Audio Data Augmentation**
+
 The project includes four different types of data augmentation methods: add white noise, shift the wave, change the speed of audio and then padding to original length, shift the pitch. Each method is executed twice for each one audio wave.
 
 2. **Convert The Wave to 2-D Spectrogram**
+
 After data augmentation, the dataset is converted to 2-D spectrogram and then change the dimension accordingly. The dimension should be 4 if CNN/GAN model is employed; the dimension should be 3 if LSTM model is employed; the dimension should be 2 if GMM model is employed.
 
 3. **Split The Dataset**
+
 By the end, the dataset is split to training/testing with the split ratio=0.1.
 
 ### Methods
