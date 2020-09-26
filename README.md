@@ -20,11 +20,11 @@
 <br />
 <p align="center">
   <a href="https://github.com/junzhuang-code/audio_classification">
-    <img src="images/audio_wave_7.png" alt="Logo" width="80" height="80">
+    <img src="images/audio_logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Audio Classification</h3>
   <p align="center">
-    Author: **Jun Zhuang**
+    Author: Jun Zhuang
     <br />
     <a href="https://github.com/junzhuang-code/audio_classification"><strong>Explore the project »</strong></a>
     <br />
@@ -57,11 +57,12 @@
 ## About The Project
 
 This project is a in-class competition held on Kaggle.com. The major task is to classify short audio clips of spoke digits 0 to 9. The training set contains digits from 0 to 9 except 2. The testing set contains all digits. Thus, besides classification, this project will also employ anomaly detection method to improve the final prediction. The project eventually got No.3 on private leader-board.
-[![Leaderboard Screenshot][leaderboard-screenshot]](https://example.com)
+[![Leaderboard Screenshot][leaderboard-screenshot]](https://www.kaggle.com/c/audio-classification/leaderboard)
 
 ### Dataset
 
 Each row in the audio dataset corresponds to a spoken digit (0 to 9) sampled at 22050 hz. The competition only provides train labels. Note that there are no digit 2 in the training data. The sample audio wave is visualized as below:
+[![Sample Audio Wave][sample-audio-wave]]
 
 ### Preprocessing
 
@@ -149,15 +150,16 @@ Thanks professor Mohler for instruction.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/junzhuang-code/repo.svg?style=flat-square
-[contributors-url]: https://github.com/junzhuang-code/repo/graphs/contributors
+[contributors-url]: https://github.com/junzhuang-code/audio_classification/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/junzhuang-code/repo.svg?style=flat-square
-[forks-url]: https://github.com/junzhuang-code/repo/network/members
+[forks-url]: https://github.com/junzhuang-code/audio_classification/network/members
 [stars-shield]: https://img.shields.io/github/stars/junzhuang-code/repo.svg?style=flat-square
-[stars-url]: https://github.com/junzhuang-code/repo/stargazers
+[stars-url]: https://github.com/junzhuang-code/audio_classification/stargazers
 [issues-shield]: https://img.shields.io/github/issues/junzhuang-code/repo.svg?style=flat-square
-[issues-url]: https://github.com/junzhuang-code/repo/issues
+[issues-url]: https://github.com/junzhuang-code/audio_classification/issues
 [license-shield]: https://img.shields.io/github/license/junzhuang-code/repo.svg?style=flat-square
-[license-url]: https://github.com/junzhuang-code/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/junzhuang-code/audio_classification/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jun-zhuang-74800957/
 [leaderboard-screenshot]: images/leaderboard_screenshot.png
+[leaderboard-screenshot]: images/audio_wave_7.png
