@@ -162,4 +162,4 @@ Thanks professor Mohler for instruction.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jun-zhuang-74800957/
 [leaderboard-screenshot]: images/leaderboard_screenshot.png
-[leaderboard-screenshot]: images/audio_wave_7.png
+[sample-audio-wave]: images/audio_wave_7.png
