@@ -158,7 +158,7 @@ Thanks professor Mohler for instruction.
 [issues-shield]: https://img.shields.io/github/issues/junzhuang-code/audio_classification.svg?style=flat-square
 [issues-url]: https://github.com/junzhuang-code/audio_classification/issues
 [license-shield]: https://img.shields.io/github/license/junzhuang-code/audio_classification.svg?style=flat-square
-[license-url]: https://github.com/junzhuang-code/audio_classification/blob/master/LICENSE.txt
+[license-url]: https://github.com/junzhuang-code/audio_classification/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jun-zhuang-74800957/
 [leaderboard-screenshot]: images/leaderboard_screenshot.png
